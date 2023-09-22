@@ -8,7 +8,7 @@
 .active{background-color: rgb(246, 246, 246); color: #484848;}
 .nav ul li a:hover{background-color: rgb(246, 246, 246);}
 .home_content{width: 915px; margin: auto; display: flex; justify-content: space-between; padding-top: 65px; }
-
+.home_content
 .home_content_left{width: 228px; height: 275px; }
 .home_content_left img{display: block; width:100%; height:auto;height: 100%;}
 .home_content_right p{font-size: 16px;}
