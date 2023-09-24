@@ -8,7 +8,7 @@
     .mobile{width: 100%; height: 2.35rem;  border-bottom: 1px solid #dedede; align-items: center; display: flex; padding: 0px 0.8rem; box-sizing: border-box; }
     .btn{ height: 1.3rem; width: 1.3rem; }
     .btn img{display: block; width: 100%; height: 100%;}
-    .mobile .logo-mb{font-family:'宋体' !important; font-size: 1.2rem; padding-right: 1.4rem; font-family:'Times New Roman', Times, serif; font-weight: bold; color: #333; flex: 1; text-align: center;}
+    .mobile .logo-mb{font-size: 1.2rem; padding-right: 1.4rem; font-family:'Times New Roman', Times, serif; font-weight: bold; color: #333; flex: 1; text-align: center;}
     .navigation{width: 12rem; z-index: 999;  height: 100vh; background-color: rgb(255, 255, 255);padding:  2.93rem 0.8rem;border-right: 1px solid #dedede; position: absolute; top: 2.35rem; left: -13rem;}
     .navigation li a img{display: block; width:0.73rem; height: 0.73rem; margin-left: 0.28rem;}
 
@@ -25,9 +25,14 @@
     .home_content_left{width: 100% !important;}
     .research{width: 100%;padding: 1.85rem 0.56rem; margin-top: 2.22rem;}
     .this_info{width: 70%; margin-right: 0px;}
-    .this_img {width: 30%;}
-    .research h2{font-size: 0.74rem;}
-    .this_info li a{font-size: 0.56rem;}
+    .this_img {width: 105px;}
+    .this_img img{width: 100%; height: 100%; padding: 3px;}
+    .research h2{margin: 0.5rem 0;font-size: 0.55rem;}
+    .this_info li a{margin: 0.25rem 0;font-size: 0.5rem;}
+    .this_info p{margin: 0.25rem 0;font-size: 0.36rem;}
+    .this_info p a{margin: 0.25rem 0;font-size: 0.36rem;}
+    .jou{margin: 0.25rem 0;font-size: 0.4rem;}
+    
 
     .re_item2 .this_info{width: 100%;}
     .teaching{width: 100%;padding: 1.85rem 0.56rem;margin-top: 2.22rem;}
