@@ -28,7 +28,7 @@
 .research {width: 912px; margin: auto; padding-top: 65px;}
 .research h2{margin: 20px 0; font-size: 20px;}
 .this_info{ line-height: 30px;}
-.this_info li a{color: #8d2424; font-size: 18px;}
+.this_info li a{color: #8d2424; font-size: 15px;}
 .this_img{width: 105px; height: 140px; border: 1px solid #b6b3b3; }
 .this_img img{display: block; width: 103px; height: 100%; padding: 3px;}
 .re_item{display: flex; justify-content: space-between; margin-bottom: 30px;}
@@ -52,3 +52,4 @@
 
 .footer{height: 129px; background-color: rgb(249, 249, 249);}
 .mobile{display: none;}
+
